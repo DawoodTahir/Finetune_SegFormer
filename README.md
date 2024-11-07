@@ -16,12 +16,15 @@ To install dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-'''
+```
+#Running the Fine-Tuning Script
 
+##To fine-tune the model, use the following command:
 ```bash
 python finetune.py
+```
 
-'''
+
 
 
 <table> <tr> <th>Original Image</th> <th>Segmentation Result</th> </tr> <tr> <td><img src="original_images/sample1.jpg" alt="Original Image 1" width="300"></td> <td><img src="segmentation_results/sample1_result.jpg" alt="Segmentation Result 1" width="300"></td> </tr> <tr> <td><img src="original_images/sample2.jpg" alt="Original Image 2" width="300"></td> <td><img src="segmentation_results/sample2_result.jpg" alt="Segmentation Result 2" width="300"></td> </tr> </table>
