@@ -27,4 +27,4 @@ python finetune.py
 
 
 
-<table> <tr> <th>Original Image</th> <th>Segmentation Result</th> </tr> <tr> <td><img src="original_images/sample1.jpg" alt="Original Image 1" width="300"></td> <td><img src="segmentation_results/sample1_result.jpg" alt="Segmentation Result 1" width="300"></td> </tr> <tr> <td><img src="original_images/sample2.jpg" alt="Original Image 2" width="300"></td> <td><img src="segmentation_results/sample2_result.jpg" alt="Segmentation Result 2" width="300"></td> </tr> </table>
+<table> <tr> <th>Original Image</th> <th>Segmentation Result</th> </tr> <tr> <td><img src="input_images/orig1.png" alt="Original Image 1" width="300"></td> <td><img src="input_images/result1.png" alt="Segmentation Result 1" width="300"></td> </tr> <tr> <td><img src="input_images/result2.png" alt="Original Image 2" width="300"></td></tr> </table>
